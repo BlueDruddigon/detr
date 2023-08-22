@@ -1,0 +1,13 @@
+# IDEs
+.idea/
+.vscode/
+
+# checkpointing
+weights/
+logs/
+chkpt/
+*.pth
+*.log
+
+# Cache
+__pycache__
